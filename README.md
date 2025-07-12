@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Prasad Kasabe
 
-<!--
-**PrasadKasabe/PrasadKasabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech IT student at Sandip Institute  
+📊 Passionate about Data Science, Machine Learning, and Backend Development  
+🧠 Learning: System Design, Django, and Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use
+- Python, NumPy, Pandas, Matplotlib, Scikit-learn
+- Flask, Django (learning)
+- Git, GitHub
+- HTML, CSS, JS basics
+
+## 📫 Connect With Me
+- 📧 prasadkasbe912@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prasad-kasbe-bb56b5302)
+- 🐱 [GitHub](https://github.com/prasadkasbe912)
+
+---
+
+## ⚡ GitHub Stats
+
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadkasbe912&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkasbe912&layout=compact&theme=dark)
+
